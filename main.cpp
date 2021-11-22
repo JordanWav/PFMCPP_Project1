@@ -88,13 +88,13 @@ mobilePhone.off();
 mobilePhone.openMessages();
 
 //  5)
-//  Noun:       monster
-//  action 1:   monster attacks player
-monster.attack();
-//  action 2:   monster blocks attack
-monster.block();
-//  action 3:   monster runs away
-monster.flee();
+//  Noun:       logicPro
+//  action 1:   logic pro creates a new session
+logicPro.newSession();
+//  action 2:   logic pro "saves as"
+logicPro.saveAs();
+//  action 3:   logic pro closes project
+logicPro.closeProject();
 
 //  6)
 //  Noun:       hero
@@ -103,7 +103,7 @@ hero.equipArmor();
 //  action 2:   hero equips weapon
 hero.equipWeapon();
 //  action 3:   hero sells item
-hero.sell();
+hero.sellItem();
 
 //  7)
 //  Noun:       mario
@@ -135,11 +135,11 @@ volumeSlider.mute();
 //  10)
 //  Noun:       bluetoothHeadphones
 //  action 1:   bluetooth headphones turns on
-bluetoothHeadphones.on();
+bluetoothHeadphones.turnOn();
 //  action 2:   bluetooth headphones pairs to device
-bluetoothHeadphones.pair();
+bluetoothHeadphones.pairToDevice();
 //  action 3:   bluetooth headphones turns off
-bluetoothHeadphones.off();
+bluetoothHeadphones.turnOff();
 
 
 
