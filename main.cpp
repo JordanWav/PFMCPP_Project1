@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog sleeps
+dog.sleep();
+//  action 3:   the dog eats
+dog.eat();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       computer
+//  action 1:   the computer starts Windows
+computer.startWindows();
+//  action 2:   the computer runs startup applications
+computer.runStartupApps();
+//  action 3:   the computer restarts
+computer.restart();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       musicPlayer
+//  action 1:   the music player plays a song
+musicPlayer.play();
+//  action 2:   the music player stops a song
+musicPlayer.stop();
+//  action 3:   the music player skips a song
+musicPlayer.skip();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       mobilePhone
+//  action 1:   the mobile phone turns on
+mobilePhone.on();
+//  action 2:   the mobile phone turns off
+mobilePhone.off();
+//  action 3:   the mobile phone opens messages app
+mobilePhone.openMessages();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       logicPro
+//  action 1:   logic pro creates a new session
+logicPro.newSession();
+//  action 2:   logic pro "saves as"
+logicPro.saveAs();
+//  action 3:   logic pro closes project
+logicPro.closeProject();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       hero
+//  action 1:   hero equips armor
+hero.equipArmor();
+//  action 2:   hero equips weapon
+hero.equipWeapon();
+//  action 3:   hero sells item
+hero.sellItem();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       mario
+//  action 1:   mario jumps
+mario.jump();
+//  action 2:   mario runs
+mario.run();
+//  action 3:   mario crouches
+mario.crouch();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       car
+//  action 1:   the car accelerates
+car.accelerate();
+//  action 2:   the car uses breaks
+car.breaks();
+//  action 3:   the car starts the engine
+car.startEngine();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       volumeSlider
+//  action 1:   the volume slider increases volume
+volumeSlider.increaseVolume();
+//  action 2:   the volume slider decreases volume
+volumeSlider.decreaseVolume();
+//  action 3:   the volume slider mutes
+volumeSlider.mute();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       bluetoothHeadphones
+//  action 1:   bluetooth headphones turns on
+bluetoothHeadphones.turnOn();
+//  action 2:   bluetooth headphones pairs to device
+bluetoothHeadphones.pairToDevice();
+//  action 3:   bluetooth headphones turns off
+bluetoothHeadphones.turnOff();
 
 
 
